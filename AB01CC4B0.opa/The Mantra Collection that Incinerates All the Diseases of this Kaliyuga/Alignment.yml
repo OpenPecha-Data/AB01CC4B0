@@ -1,0 +1,16 @@
+segment_sources:
+  PD8884ED8:
+    type: origin_type
+    relation: translation
+    language: en
+  P79EF9BFF:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f343fb3bf7754e70906462394653353c:
+    PD8884ED8: 57871464dc9a4beaae94900172e007cd
+    P79EF9BFF: d2c900ec896c41d8b9791f51a829d3d8
+  8a511f3105374b6cbb6abcac878072b3:
+    PD8884ED8: 58e422b17d4047779a1f936fea55441f
+    P79EF9BFF: 8c21695168674894b16754ea7ecdfc16
